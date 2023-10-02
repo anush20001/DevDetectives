@@ -1,2 +1,2 @@
 # DevDetectives
-auther- Anush Kadav
+author- Anush Kadav
