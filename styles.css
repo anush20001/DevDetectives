@@ -401,4 +401,11 @@
       width: 65%;
     }
   }
+
+  @media screen and (min-width: 375) {
+    .container {
+      margin-top: 6rem;
+      margin-bottom: 6rem;
+    }
+  }
   
