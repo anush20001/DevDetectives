@@ -402,10 +402,15 @@
     }
   }
 
-  @media screen and (min-width: 375) {
+  @media screen and (max-width:400px) {
     .container {
-      margin-top: 6rem;
-      margin-bottom: 6rem;
+      margin-top: 3rem;
+      
+      padding-bottom: 4rem;
+    }
+    
+    .btn-mode{
+      margin-top: 3rem;
     }
   }
   
